@@ -1,6 +1,6 @@
 print("new Hello git")
 print("Hello git")
- nombre = "Cristian"
+nombre = "Cristian"
 
 print(nombre)
 
