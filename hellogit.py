@@ -7,3 +7,7 @@ nombre = "Cristian"
 print(nombre)
 
 print("Nuevo cambio")
+print("Nuevo cambio")
+print("Nuevo cambio")
+print("Nuevo cambio")
+print("Nuevo cambio")
